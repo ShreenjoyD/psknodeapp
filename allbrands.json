@@ -1,0 +1,266 @@
+[{
+  "id": 1,
+  "brand": "ford",
+  "models": [
+    {
+      "name": "F150",
+      "years": [
+        {
+          "year": 2009,
+          "powers": ["370 HP", "252 HP", "296 HP", "390 HP", "304 HP"]
+        },
+        {
+          "year": 2017,
+          "powers": ["370 HP", "450 HP", "395hp"]
+        }
+      ]
+    },
+     {
+      "name": "F250",
+      "years": [
+        {
+          "year": 2015,
+          "powers": ["350 HP", "395 HP", "400 HP"]
+        }
+      ]
+    },
+     {
+      "name": "F350",
+      "years": [
+        {
+          "year": 2008,
+          "powers": ["350 HP", "150 HP"]
+        }
+      ]
+    }
+  ]
+},
+
+
+{
+  "id": 2,
+  "brand": "suzuki",
+  "models": [
+    {
+      "name": "Swift",
+      "years": [
+        {
+          "year": 2005,
+          "powers": ["92 HP", "75 HP", "125 HP"]
+        },
+        {
+          "year": 2011,
+          "powers": ["94 HP", "136 HP", "75hp"]
+        },
+        {
+          "year": 2017,
+          "powers": ["112 HP", "90 HP", "94hp", "90 HP", "140 HP", "83 HP", "129 HP", "82 HP"]
+        }
+      ]
+    },
+     {
+      "name": "Vitara",
+      "years": [
+        {
+          "year": 2015,
+          "powers": ["140 HP", "120 HP"]
+        },
+        {
+          "year": 2018,
+          "powers": ["111 HP", "115 HP", "140 HP", "129 HP"]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 3,
+  "brand": "mercedes",
+  "models": [
+    {
+      "name": "Citan",
+      "years": [
+        {
+          "year": 2012,
+          "powers": ["75HP", "90HP", "110HP"]
+        },
+        {
+          "year": 2016,
+          "powers": ["114HP", "80HP", "116HP", "95HP"]
+        },
+        {
+          "year": 2021,
+          "powers": ["131HP", "95HP", "116HP", "122HP"]
+        }
+      ]
+    },
+    {
+      "name": "EQA",
+      "years": [
+        {
+          "year": 2021,
+          "powers":["190HP", "292HP"]
+        }
+      ]
+    },
+    {
+      "name": "CLK",
+      "years": [
+        {
+          "year": 2002,
+          "powers": ["170HP", "163HP", "184HP"]
+        }
+      ]
+    },
+    {
+      "name": "EQS",
+      "years": [
+        {
+          "year": 2021,
+          "powers": ["360HP", "333HP", "658HP", "761HP", "544HP", "523HP"]
+        }
+      ]
+    },
+    {
+      "name": "GLS",
+      "years": [
+        {
+          "year": 2015,
+          "powers": ["333HP", "367HP", "456HP", "585HP", "258HP"]
+        },
+        {
+          "year": 2020,
+          "powers": ["511HP", "579HP", "612HP", "286HP"]
+        },
+        {
+          "year": 2023,
+          "powers": ["612HP", "557HP"]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 4,
+  "brand": "volkswagen",
+  "models": [
+    {
+      "name": "ID.3",
+      "years": [
+        {
+          "year": 2020,
+          "powers": ["145HP", "204HP", "150HP"]
+        }
+      ]
+    },
+    {
+      "name": "ID.4",
+      "years": [
+        {
+          "year": 2020,
+          "powers": ["299HP", "204HP", "170HP", "148HP"]
+        },
+        {
+          "year": 2024,
+          "powers": ["340HP", "286HP", "170HP"]
+        }
+      ]
+    },
+    {
+      "name": "ID.5",
+      "years": [
+        {
+          "year": 2022,
+          "powers": ["299HP", "174HP", "204HP"]
+        }
+      ]
+    },
+    {
+      "name": "ID.7",
+      "years": [
+        {
+          "year": 2023,
+          "powers": ["286HP", "340HP"]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 5,
+  "brand": "jaguar",
+  "models": [
+    {
+      "name": "E-Pace",
+      "years": [
+        {
+          "year": 2017,
+          "powers": ["200HP", "250HP", "300HP", "150HP", "180HP", "240HP"]
+        },
+        {
+          "year": 2021,
+          "powers": ["309HP"]
+        }
+      ]
+    },
+    {
+      "name": "F-Pace",
+      "years": [
+        {
+          "year": 2016,
+          "powers": ["240HP", "250HP", "300HP", "340HP", "380HP", "550HP"]
+        }
+      ]
+    },
+    {
+      "name": "I-Pace",
+      "years": [
+        {
+          "year": 2020,
+          "powers": ["320HP", "400HP"]
+        }
+      ]
+    },
+    {
+      "name": "S-Type",
+      "years": [
+        {
+          "year": "All",
+          "powers": ["207HP"]
+        }
+      ]
+    },
+    {
+      "name": "X-Type",
+      "years": [
+        {
+          "year": "All",
+          "powers": ["130HP", "150HP"]
+        }
+      ]
+    },
+    {
+      "name": "XE",
+      "years": [
+        {
+          "year": 2015,
+          "powers": ["163HP", "180HP", "240HP"]
+        },
+        {
+          "year": 2019,
+          "powers": ["250HP", "300HP", "180HP", "204HP"]
+        }
+      ]
+    },
+    {
+      "name": "XF",
+      "years": [
+        {
+          "year": 2015,
+          "powers": ["340HP", "416HP", "385HP", "470HP", "190HP", "275HP"]
+        }
+      ]
+    }
+  ]
+}
+]
