@@ -16,8 +16,8 @@ app.post('/subscribd', (req, res) => {
       var transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-          user: 'youremailaddress',
-          pass: 'yourpassword'
+          user: 'shreenjoy2001@gmail.com',
+          pass: 'mhbj hszj cipk eldu'
         }
       });
 
